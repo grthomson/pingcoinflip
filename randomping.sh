@@ -4,7 +4,7 @@ echo "Yo! We're going to ping facebook a bunch of times and test the parity of t
 
 echo
 
-echo "If the parity is even we'll add 1 to a counter. If odd we'll subtract 1. If ping latency is random then we should end up with zero over a large number of pings."
+echo "If the parity is even we'll add 1 to a counter. If odd we'll subtract 1. Then we'll try to test how well this approximates a coin toss."
 
 echo
 
